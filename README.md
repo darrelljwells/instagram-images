@@ -1,1 +1,1 @@
-# instagram-images
+# Instagram Images
